@@ -4,9 +4,9 @@
   "description": "When a pull request is opened it will fetch the review app environment URL from gitlab",
   "author": "TileDB, Inc. <hello@tiledb.io>",
   "license": "MIT",
-  "repository": "https://github.com//gitlab-ci-review-app-url-poster.git",
-  "homepage": "https://github.com//gitlab-ci-review-app-url-poster",
-  "bugs": "https://github.com//gitlab-ci-review-app-url-poster/issues",
+  "repository": "https://github.com/TileDB-Inc/gitlab-ci-review-app-url-poster.git",
+  "homepage": "https://github.com/TileDB-Inc/gitlab-ci-review-app-url-poster",
+  "bugs": "https://github.com/TileDB-Inc/gitlab-ci-review-app-url-poster/issues",
   "keywords": [
     "probot",
     "github",
