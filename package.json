@@ -20,7 +20,7 @@
     "test:watch": "jest --watch --notify --notifyMode=change --coverage"
   },
   "dependencies": {
-    "gitlab": "^4.5.1",
+    "gitlab": "^14.2.2",
     "probot": "^7.2.0"
   },
   "devDependencies": {
